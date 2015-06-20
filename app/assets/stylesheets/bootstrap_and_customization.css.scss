@@ -4,5 +4,11 @@ $navbar-default-bg:    #800020;
 $navbar-default-link-color:      #ffd700;
 $jumbotron-bg:     #800020;
 $jumbotron-color:     #ffd700;
+$btn-default-color:   #800020;
+$btn-default-bg:     #ffd700;
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
