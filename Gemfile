@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
 gem 'bcrypt-ruby', '~> 3.0.0'
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 4.2'
 
 group :development, :test do
 	gem 'sqlite3'
